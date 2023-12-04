@@ -1,1 +1,0 @@
-# synarts.github.io
