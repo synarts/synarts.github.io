@@ -2,13 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://synanthropic.art/bernese_mountain_dog/</loc>
+  </url><url>
     <loc>https://synanthropic.art/2024_jdu21iso1/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synanthropic.art/a9892bji1nsp/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synanthropic.art/2024-76fduj/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synanthropic.art/2024_728s91nq0/</loc>
@@ -20,13 +19,14 @@
     <loc>https://synanthropic.art/pshj28xh9njx9s/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://synanthropic.art/2024-76fduj/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://synanthropic.art/2024-rat-js82/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synanthropic.art/boar-rusty/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synanthropic.art/bernese_mountain_dog/</loc>
   </url><url>
     <loc>https://synanthropic.art/doberman-c/</loc>
   </url><url>
@@ -68,9 +68,6 @@
     <loc>https://synanthropic.art/tags/featured/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://synanthropic.art/tags/hyena/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://synanthropic.art/tags/partial/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -81,9 +78,6 @@
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synanthropic.art/tags/rottweiler/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synanthropic.art/tags/spotted_hyena/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synanthropic.art/tags/</loc>
@@ -100,6 +94,12 @@
   </url><url>
     <loc>https://synanthropic.art/tags/equine/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synanthropic.art/tags/hyena/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synanthropic.art/tags/spotted_hyena/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synanthropic.art/tags/full/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
